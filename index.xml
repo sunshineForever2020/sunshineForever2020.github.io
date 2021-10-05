@@ -37,6 +37,15 @@ It makes use of a variety of open source projects including:
     </item>
     
     <item>
+      <title>macOS上利用Hugo &#43; Github Pages 建立个人博客</title>
+      <link>http://localhost:1313/post/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Tue, 05 Oct 2021 09:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>macOS上利用 Hugo + GitHub Pages 搭建个人博客 由于平时会学习很多知识，也会遇到很多问题，但是都没有记录下来，因此想搭建个博客记录自己遇到的问题及解决办</description>
+    </item>
+    
+    <item>
       <title>This is a hidden post.</title>
       <link>http://localhost:1313/post/hidden-post/</link>
       <pubDate>Thu, 08 Mar 2018 17:40:19 +0800</pubDate>
